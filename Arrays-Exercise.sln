@@ -16,9 +16,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_07. Max Sequence of Equal 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_08. Magic Sum", "_08. Magic Sum\_08. Magic Sum.csproj", "{8428BE5D-6686-4CFE-94B9-BA97166F311D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_9.Kamino Factory", "_9.Kamino Factory\_9.Kamino Factory.csproj", "{07FE8011-5586-4977-B6A2-3543EC6AD134}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{0E082709-59E4-4A15-ADAB-985CD123278E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_09.Kamino Factory", "_09.Kamino Factory\_09.Kamino Factory.csproj", "{07FE8011-5586-4977-B6A2-3543EC6AD134}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,9 +60,5 @@ Global
 		{07FE8011-5586-4977-B6A2-3543EC6AD134}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07FE8011-5586-4977-B6A2-3543EC6AD134}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07FE8011-5586-4977-B6A2-3543EC6AD134}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0E082709-59E4-4A15-ADAB-985CD123278E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E082709-59E4-4A15-ADAB-985CD123278E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E082709-59E4-4A15-ADAB-985CD123278E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E082709-59E4-4A15-ADAB-985CD123278E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
